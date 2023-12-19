@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#header1{
+    width: 100%;
+    height: 55px;
+    background-color: black;
+    text-align: center;   
+}
+#quote{
+    color: white;
+    position: relative;
+    top: 10px;
+      
+}
+#header2{
+    width: 100%;
+    height:60px;
+    background-color: brown;
+    
+    
+}
+ul{
+    display: flex;
+    font-size: 25px;
+    
+    
+}
+li{
+    margin: 20px;
+    position: relative;
+    bottom: 10px;
+    left: 420px;
+    color: white;
+    border: solid 5px black;
+    border-radius: 20%;
+    background-color: gray;   
+}
+#billG{
+    width: 100%;
+    position: relative;
+    
+
+}
+#hi{
+    font-size: 60px;
+    color: white;
+    position: relative;
+    left: 100px;
+    bottom: 610px;
+    letter-spacing: 5px;   
+}
+#biograph{
+    font-size: 50px;
+    position: relative;
+    top: -40px;
+}
+#me{
+    width: 380px;
+    height: 302px;
+    position: relative;
+    left: 20px;
+}
+#p1{
+    position: relative;
+    bottom: 309px;
+    left: 410px;
+    text-align: justify;
+    
+}
+#Philanthropy{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#philgrpy{
+    font-size: 50px;
+    position: relative;
+    bottom: 250px;    
+}
+#phil{
+    width: 290px;
+    height: 390px;
+    margin: 20px;
+    background-color: black;
+    position: relative;
+    bottom: 240px;
+    border: solid 5px brown;
+    box-shadow: 20px 20px 20px;
+    transform:scale(1);
+    transition: transform 0.3s ease;
+}
+#quick{
+    color: white;
+    text-align: center;
+}
+#p2{
+    color: white;
+    text-align: center;
+    font-size: 26px;    
+}
+#phil:hover{
+    transform:scale(1.1);
+}
+#inventions{
+    font-size: 50px;
+    position: relative;
+    bottom: 207px;
+}
+#p3{
+    font-size: 20px;
+    position: relative;
+    bottom: 200px;
+    left: 40px;
+}
+#awards{
+    font-size: 50px;
+    position: relative;
+    bottom: 130px;
+}
+#awardspic{
+    position: relative;
+    bottom: 140px;
+    left: 30px; 
+}
+#p4{
+    position: relative;
+    bottom: 550px;
+    left: 710px;
+    font-size: 25px;
+}
+#location{
+    position: relative;
+    bottom: 350px;
+    font-size: 50px;
+}
+#loc{
+    width: 500px;
+    height: 400px;
+    position: relative;
+    bottom: 350px;
+    left: 50px;
+    
+}
+a{
+    color: white;
+}
+#footer1{
+    background-color: brown;
+    width: 100%;
+    height: 70px;
+    position: relative;
+    bottom: 324px;
+    text-align: center;
+    
+}
+h3{
+    font-size: 30px;
+    position: relative;
+    top: 20px;   
+}
+#footer2{
+    background-color: black;
+    width: 100%;
+    height: 295px;
+    position: relative;
+    bottom: 324px;
+    text-align: center;
+}
+#p5{
+    color: white;
+    font-size: 25px;
+    position: relative;
+    top: 15px;
+    
+}
